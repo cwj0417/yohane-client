@@ -1,0 +1,8 @@
+{
+  "name": "yohane",
+  "version": "0.0.1",
+  "description": "yohane client ",
+  "main": "main.js",
+  "author": "chenwj",
+  "license": "MIT"
+}
